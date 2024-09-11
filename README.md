@@ -1,2 +1,2 @@
 # MyPortfolio
-My e-Portfolio
+A website based professional portfolio
